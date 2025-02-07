@@ -120,7 +120,7 @@ img {
 
 .banner {
     height: 620px;
-    background-image: url(../Img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
